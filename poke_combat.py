@@ -2,38 +2,47 @@ pokemon_elegido = input("Contra quien quieres pelear? (Squirtle / Charmander / B
 vida_pikachu = 100
 vida_enemigo = 0
 
-charmander = (pokemon_elegido == "CHARMANDER")
-squirtle = (pokemon_elegido == "SQUIRTLE")
-bulbasaur = (pokemon_elegido == "BULBASAUR")
+if pokemon_elegido == "SQUIRTLE":
+    nombre_pokemon = "Squirtle"
+    vida_enemigo = 90
+    ataque_pokemon = 9
 
-if charmander or squirtle or bulbasaur:
-    if squirtle:
-        vida_enemigo = 90
-        print("La vida de Squirtle es : ",vida_enemigo)
-        while vida_pikachu > 0 and vida_enemigo > 0:
-            ataque_elegido = input("Que ataque quieres usar? (Sparkle / Thunderbolt): ").upper()
-            if ataque_elegido == "SPARKLE":
-                vida_enemigo -= 10
-                vida_pikachu -= 8
-                print("La vida de Squirtle es : ", vida_enemigo)
-                print("La vida de Pikachu es : ", vida_pikachu)
-            elif ataque_elegido == "THUNDERBOLT":
-                vida_enemigo -= 12
-                vida_pikachu -= 8
-                print("La vida de Squirtle es : ", vida_enemigo)
-                print("La vida de Pikachu es : ", vida_pikachu)
-            else:
-                print("Has pasado de ronda")
-                vida_pikachu -= 8
-                print("La vida de Squirtle es : ", vida_enemigo)
-                print("La vida de Pikachu es : ", vida_pikachu)
-    if charmander:
-        vida_enemigo = 80
-        print(vida_enemigo)
+elif pokemon_elegido == "CHARMANDER":
+    nombre_pokemon = "Charmander"
+    vida_enemigo = 80
+    ataque_pokemon = 8
 
-    if bulbasaur:
-        vida_enemigo = 100
-        print(vida_enemigo)
+elif pokemon_elegido == "BULBASAUR":
+    nombre_pokemon = "Bulbasaur"
+    vida_enemigo = 100
+    ataque_pokemon = 10
 
-else:
-    print("Ingrese un pokemon valido")
+
+
+while vida_pikachu > 0 and vida_enemigo > 0:
+    #Elegimos el ataque
+    ataque_elegido = input("Que ataque quieres usar? (Sparkle / Thunderbolt): ").upper()
+    pikachu = "Pikachu"
+    #Si el ataque elegido es sparkle entonces hacemos 10 de dano, sino si el ataque es thunderbolt hacemos 12 de dano,
+    #sino pasamos el turno
+    if ataque_elegido == "SPARKLE":
+        vida_enemigo -= 10
+        ataque_elegido = "Sparkle por 10 de dano"
+
+    elif ataque_elegido == "THUNDERBOLT":
+        vida_enemigo -= 12
+        ataque_elegido = "Thunderbolt por 12 de dano"
+    else:
+        ataque_elegido = "Has pasado de turno"
+
+    vida_pikachu -= ataque_pokemon
+
+    print("{} ha usado {}, la vida de {} ahora es {}".format(pikachu, ataque_elegido, nombre_pokemon, vida_enemigo))
+    print("{} te ha hecho {} de dano, la vida de {} ahora es {}".format(nombre_pokemon, ataque_pokemon, pikachu, vida_pikachu))
+
+if vida_enemigo <= 0:
+    print("Has ganado!")
+elif vida_pikachu <= 0:
+    print("Has perdido!")
+
+print("Combate terminado")
