@@ -8,4 +8,4 @@ while numero_inicial > 0:
         print(numero_inicial, " es impar")
     numero_inicial -= 1
 
-print("Finished")
+print("Finished!")

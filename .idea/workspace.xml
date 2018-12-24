@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d04e56e4-fdab-4564-8d6c-55430f1d9c67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ejercicios/ejercicio_listas_y_for_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicios/ejercicio_listas_y_for_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicios/ejercicio_listas_y_for_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejemplos/numero_mas_grande.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicios/numeros_y_listas/count_number_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicios/numeros_y_listas/numero_mas_pequeno.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicios/numeros_y_listas/promedio_de_elementos_en_lista.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejemplos/ejemplo_for.py" beforeDir="false" afterPath="$PROJECT_DIR$/ejemplos/ejemplo_for.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejemplos/ejemplo_while.py" beforeDir="false" afterPath="$PROJECT_DIR$/ejemplos/ejemplo_while.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,32 +17,58 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/mi_primer_programe$random.coverage" NAME="random Coverage Results" MODIFIED="1545452528283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$lista_compra_while.coverage" NAME="lista_compra_while Coverage Results" MODIFIED="1545592548260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mi_primer_programe$ejercicio_listas_y_for_2.coverage" NAME="ejercicio_listas_y_for_2 Coverage Results" MODIFIED="1545658374142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$ejercicios_3.coverage" NAME="ejercicios_3 Coverage Results" MODIFIED="1545500611561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$mayor_de_tres.coverage" NAME="mayor_de_tres Coverage Results" MODIFIED="1545260994633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$ejemplo_while.coverage" NAME="ejemplo_while Coverage Results" MODIFIED="1545446622001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$ejemplo_tabla_multiplicar.coverage" NAME="ejemplo_tabla_multiplicar Coverage Results" MODIFIED="1545659092521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejemplos" />
     <SUITE FILE_PATH="coverage/mi_primer_programe$poke_combat.coverage" NAME="poke_combat Coverage Results" MODIFIED="1545494242881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$ejemplo_while.coverage" NAME="ejemplo_while Coverage Results" MODIFIED="1545669373915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejemplos" />
     <SUITE FILE_PATH="coverage/mi_primer_programe$ejercicios_2.coverage" NAME="ejercicios_2 Coverage Results" MODIFIED="1545499726216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mi_primer_programe$asdasd.coverage" NAME="asdasd Coverage Results" MODIFIED="1545453400087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$vocal_o_consonante.coverage" NAME="vocal_o_consonante Coverage Results" MODIFIED="1545608118726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mi_primer_programe$ejercicio_listas_y_for_1.coverage" NAME="ejercicio_listas_y_for_1 Coverage Results" MODIFIED="1545658034205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios" />
     <SUITE FILE_PATH="coverage/mi_primer_programe$comer_helado.coverage" NAME="comer_helado Coverage Results" MODIFIED="1545445913633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$ejemplo_for.coverage" NAME="ejemplo_for Coverage Results" MODIFIED="1545606491248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mi_primer_programe$ejercicios_1.coverage" NAME="ejercicios_1 Coverage Results" MODIFIED="1545499066525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mi_primer_programe$test_input.coverage" NAME="test_input Coverage Results" MODIFIED="1545099893428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mi_primer_programe$adivina_numero.coverage" NAME="adivina_numero Coverage Results" MODIFIED="1545261008270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$random.coverage" NAME="random Coverage Results" MODIFIED="1545452528283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$promedio_de_elementos_en_lista.coverage" NAME="promedio_de_elementos_en_lista Coverage Results" MODIFIED="1545670600871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/numeros_y_listas" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$lista_compra_while.coverage" NAME="lista_compra_while Coverage Results" MODIFIED="1545592548260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$ejercicios_3.coverage" NAME="ejercicios_3 Coverage Results" MODIFIED="1545500611561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$mayor_de_tres.coverage" NAME="mayor_de_tres Coverage Results" MODIFIED="1545260994633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$ejercicio_tabla_de_multiplicar_1.coverage" NAME="ejercicio_tabla_de_multiplicar_1 Coverage Results" MODIFIED="1545659298042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$vocal_o_consonante.coverage" NAME="vocal_o_consonante Coverage Results" MODIFIED="1545608118726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$tabla_de_multiplicar_invertida.coverage" NAME="tabla_de_multiplicar_invertida Coverage Results" MODIFIED="1545659808613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/tablas_de_multiplicar" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$ejemplo_for.coverage" NAME="ejemplo_for Coverage Results" MODIFIED="1545668627918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejemplos" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$multiplos_de_2.coverage" NAME="multiplos_de_2 Coverage Results" MODIFIED="1545659498524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/tablas_de_multiplicar" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$numero_mas_pequeno.coverage" NAME="numero_mas_pequeno Coverage Results" MODIFIED="1545667869961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/numeros_y_listas" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$count_number_list.coverage" NAME="count_number_list Coverage Results" MODIFIED="1545669080442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/numeros_y_listas" />
     <SUITE FILE_PATH="coverage/mi_primer_programe$tecnicas.coverage" NAME="tecnicas Coverage Results" MODIFIED="1545493192210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$ejercicio_listas_y_for_3.coverage" NAME="ejercicio_listas_y_for_3 Coverage Results" MODIFIED="1545658608113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$ejercicio_listas_y_for_3.coverage" NAME="ejercicio_listas_y_for_3 Coverage Results" MODIFIED="1545658635477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$numero_mas_grande.coverage" NAME="numero_mas_grande Coverage Results" MODIFIED="1545667104162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejemplos" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ejercicios/ejercicio_listas_y_for_3.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ejercicios/numeros_y_listas/count_number_list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            <state relative-caret-position="119">
+              <caret line="7" column="18" selection-end-line="13" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ejercicios/numeros_y_listas/promedio_de_elementos_en_lista.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="76" selection-start-line="18" selection-start-column="76" selection-end-line="18" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ejemplos/vocal_o_consonante_ejemplo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -80,6 +109,17 @@
         <option value="$PROJECT_DIR$/ejercicios/ejercicio_listas_y_for_1.py" />
         <option value="$PROJECT_DIR$/ejercicios/ejercicio_listas_y_for_2.py" />
         <option value="$PROJECT_DIR$/ejercicios/ejercicio_listas_y_for_3.py" />
+        <option value="$PROJECT_DIR$/ejemplos/ejemplo_tabla_multiplicar.py" />
+        <option value="$PROJECT_DIR$/ejercicios/ejercicio_tabla_5,15_range.py" />
+        <option value="$PROJECT_DIR$/ejercicios/ejercicio_tabla_de_multiplicar_1.py" />
+        <option value="$PROJECT_DIR$/ejercicios/tablas_de_multiplicar/multiplos_de_2.py" />
+        <option value="$PROJECT_DIR$/ejercicios/tablas_de_multiplicar/tabla_de_multiplicar_invertida.py" />
+        <option value="$PROJECT_DIR$/ejemplos/numero_mas_grande.py" />
+        <option value="$PROJECT_DIR$/ejercicios/numeros_y_listas/numero_mas_pequeno.py" />
+        <option value="$PROJECT_DIR$/ejemplos/ejemplo_for.py" />
+        <option value="$PROJECT_DIR$/ejercicios/numeros_y_listas/count_number_list.py" />
+        <option value="$PROJECT_DIR$/ejemplos/ejemplo_while.py" />
+        <option value="$PROJECT_DIR$/ejercicios/numeros_y_listas/promedio_de_elementos_en_lista.py" />
       </list>
     </option>
   </component>
@@ -106,7 +146,24 @@
             <path>
               <item name="mi_primer_programe" type="b2602c69:ProjectViewProjectNode" />
               <item name="mi_primer_programe" type="462c0819:PsiDirectoryNode" />
+              <item name="ejemplos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mi_primer_programe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mi_primer_programe" type="462c0819:PsiDirectoryNode" />
               <item name="ejercicios" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mi_primer_programe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mi_primer_programe" type="462c0819:PsiDirectoryNode" />
+              <item name="ejercicios" type="462c0819:PsiDirectoryNode" />
+              <item name="listas_y_for" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mi_primer_programe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mi_primer_programe" type="462c0819:PsiDirectoryNode" />
+              <item name="ejercicios" type="462c0819:PsiDirectoryNode" />
+              <item name="numeros_y_listas" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mi_primer_programe" type="b2602c69:ProjectViewProjectNode" />
@@ -127,6 +184,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yoel_\PycharmProjects\mi_primer_programe\ejercicios\tablas_de_multiplicar" />
+      <recent name="C:\Users\yoel_\PycharmProjects\mi_primer_programe\ejercicios\listas_y_for" />
       <recent name="C:\Users\yoel_\PycharmProjects\mi_primer_programe\clases" />
       <recent name="C:\Users\yoel_\PycharmProjects\mi_primer_programe\ejemplos" />
       <recent name="C:\Users\yoel_\PycharmProjects\mi_primer_programe\ejercicios" />
@@ -144,7 +203,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ejercicio_listas_y_for_3">
+  <component name="RunManager" selected="Python.promedio_de_elementos_en_lista">
+    <configuration name="count_number_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mi_primer_programe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ejercicios/numeros_y_listas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ejercicios/numeros_y_listas/count_number_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ejemplo_for" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mi_primer_programe" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,12 +234,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ejemplos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\yoel_\PycharmProjects\mi_primer_programe\ejemplos\ejemplo_for.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ejemplos/ejemplo_for.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,7 +248,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ejercicio_listas_y_for_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ejemplo_while" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mi_primer_programe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,12 +256,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ejercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ejemplos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ejercicios/ejercicio_listas_y_for_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ejemplos/ejemplo_while.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,7 +270,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ejercicio_listas_y_for_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="numero_mas_pequeno" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mi_primer_programe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,12 +278,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ejercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ejercicios/numeros_y_listas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ejercicios/ejercicio_listas_y_for_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ejercicios/numeros_y_listas/numero_mas_pequeno.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,7 +292,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ejercicio_listas_y_for_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="promedio_de_elementos_en_lista" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mi_primer_programe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,34 +300,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ejercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ejercicios/numeros_y_listas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ejercicios/ejercicio_listas_y_for_3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="vocal_o_consonante" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="mi_primer_programe" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\yoel_\PycharmProjects\mi_primer_programe\ejemplos\vocal_o_consonante_ejemplo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ejercicios/numeros_y_listas/promedio_de_elementos_en_lista.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -257,11 +316,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ejercicio_listas_y_for_3" />
-        <item itemvalue="Python.ejercicio_listas_y_for_2" />
-        <item itemvalue="Python.ejercicio_listas_y_for_1" />
-        <item itemvalue="Python.vocal_o_consonante" />
+        <item itemvalue="Python.promedio_de_elementos_en_lista" />
+        <item itemvalue="Python.ejemplo_while" />
+        <item itemvalue="Python.count_number_list" />
         <item itemvalue="Python.ejemplo_for" />
+        <item itemvalue="Python.numero_mas_pequeno" />
       </list>
     </recent_temporary>
   </component>
@@ -284,12 +343,12 @@
       <workItem from="1545393340573" duration="20803000" />
       <workItem from="1545482914669" duration="13212000" />
       <workItem from="1545578081258" duration="8028000" />
-      <workItem from="1545657906676" duration="724000" />
+      <workItem from="1545657906676" duration="7150000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52579000" />
+    <option name="totallyTimeSpent" value="59005000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -344,6 +403,38 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ejemplos/ejemplo_tabla_multiplicar.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="largo_de_lista" language="Python" />
+        <watch expression="numero" language="Python" />
+        <watch expression="numero" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>numero</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>largo_de_lista</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1674840342/_random.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -373,13 +464,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ejemplos/ejemplo_while.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -425,17 +509,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ejemplos/ejemplo_for.py">
+    <entry file="file://$PROJECT_DIR$/ejemplos/ejemplo_tabla_multiplicar.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="68" selection-start-line="16" selection-start-column="68" selection-end-line="16" selection-end-column="68" />
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ejemplos/vocal_o_consonante_ejemplo.py">
+    <entry file="file://$PROJECT_DIR$/ejercicios/tablas_de_multiplicar/multiplos_de_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicios/tablas_de_multiplicar/invertir_range.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicios/tablas_de_multiplicar/cambiar_range.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejemplos/numero_mas_grande.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicios/numeros_y_listas/numero_mas_pequeno.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -446,24 +558,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ejercicios/ejercicio_listas_y_for_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ejercicios/ejercicio_listas_y_for_2.py">
+    <entry file="file://$PROJECT_DIR$/ejercicios/listas_y_for/deteccion_de_mayusculas.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ejercicios/ejercicio_listas_y_for_3.py">
+    <entry file="file://$PROJECT_DIR$/ejercicios/listas_y_for/introducir_vocales_en_lista.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        <state relative-caret-position="136">
+          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicios/listas_y_for/puntos_comas_y_espacios.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejemplos/ejemplo_while.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejemplos/ejemplo_for.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="94" lean-forward="true" selection-start-line="10" selection-start-column="94" selection-end-line="10" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicios/numeros_y_listas/count_number_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="18" selection-end-line="13" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="315" column="55" lean-forward="true" selection-start-line="315" selection-start-column="55" selection-end-line="315" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejemplos/vocal_o_consonante_ejemplo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicios/numeros_y_listas/promedio_de_elementos_en_lista.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="76" selection-start-line="18" selection-start-column="76" selection-end-line="18" selection-end-column="76" />
         </state>
       </provider>
     </entry>
