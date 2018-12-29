@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d04e56e4-fdab-4564-8d6c-55430f1d9c67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ejemplos/algoritmo_fizz_buzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2/multiplos_2_3_5_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2/numero_mas_grande_lista.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mi_primer_programe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mi_primer_programe.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2/fizzbuzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2/ejercicio_fizz_buzz_bazinga.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2/multiplos_2_3_5_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2/multiplos_2_3_5_7.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,52 +15,53 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/mi_primer_programe$largo_de_cada_string_en_lista.coverage" NAME="largo_de_cada_string_en_lista Coverage Results" MODIFIED="1545672355962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$ejercicio_listas_y_for_2.coverage" NAME="ejercicio_listas_y_for_2 Coverage Results" MODIFIED="1545658374142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios" />
     <SUITE FILE_PATH="coverage/mi_primer_programe$ejemplo_replace.coverage" NAME="ejemplo_replace Coverage Results" MODIFIED="1545688798000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejemplos" />
     <SUITE FILE_PATH="coverage/mi_primer_programe$multiplos_2_3_5_7.coverage" NAME="multiplos_2_3_5_7 Coverage Results" MODIFIED="1545776436179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$ejemplo_tabla_multiplicar.coverage" NAME="ejemplo_tabla_multiplicar Coverage Results" MODIFIED="1545659092521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejemplos" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$format.coverage" NAME="format Coverage Results" MODIFIED="1545682888577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/clases" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$poke_combat.coverage" NAME="poke_combat Coverage Results" MODIFIED="1545494242881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$ejemplo_while.coverage" NAME="ejemplo_while Coverage Results" MODIFIED="1545669373915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejemplos" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$ejercicios_2.coverage" NAME="ejercicios_2 Coverage Results" MODIFIED="1545499726216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$asdasd.coverage" NAME="asdasd Coverage Results" MODIFIED="1545453400087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$ejercicio_listas_y_for_1.coverage" NAME="ejercicio_listas_y_for_1 Coverage Results" MODIFIED="1545658034205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios" />
     <SUITE FILE_PATH="coverage/mi_primer_programe$comer_helado.coverage" NAME="comer_helado Coverage Results" MODIFIED="1545445913633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$multiplicacion_de_todos_los_numeros_en_lista.coverage" NAME="multiplicacion_de_todos_los_numeros_en_lista Coverage Results" MODIFIED="1545673004337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$ejercicios_1.coverage" NAME="ejercicios_1 Coverage Results" MODIFIED="1545687439541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/ejercicios_random" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$test_input.coverage" NAME="test_input Coverage Results" MODIFIED="1545099893428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$adivina_numero.coverage" NAME="adivina_numero Coverage Results" MODIFIED="1545261008270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$asd.coverage" NAME="asd Coverage Results" MODIFIED="1545687951394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejemplos" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$random.coverage" NAME="random Coverage Results" MODIFIED="1545452528283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$promedio_de_elementos_en_lista.coverage" NAME="promedio_de_elementos_en_lista Coverage Results" MODIFIED="1545670657024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/numeros_y_listas" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$replacement_aA_for_VACA.coverage" NAME="replacement_aA_for_VACA Coverage Results" MODIFIED="1545683877604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$ejercicio_listas_y_for_1.coverage" NAME="ejercicio_listas_y_for_1 Coverage Results" MODIFIED="1545658034205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$repetir_todo_con_i.coverage" NAME="repetir_todo_con_i Coverage Results" MODIFIED="1545684232313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$asdasd.coverage" NAME="asdasd Coverage Results" MODIFIED="1545453400087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$mayor_de_tres.coverage" NAME="mayor_de_tres Coverage Results" MODIFIED="1545260994633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$ejercicios_2.coverage" NAME="ejercicios_2 Coverage Results" MODIFIED="1545499726216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mi_primer_programa$multiplos_2_3_5_7.coverage" NAME="multiplos_2_3_5_7 Coverage Results" MODIFIED="1546108808890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$ejemplo_tabla_multiplicar.coverage" NAME="ejemplo_tabla_multiplicar Coverage Results" MODIFIED="1545659092521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejemplos" />
     <SUITE FILE_PATH="coverage/mi_primer_programe$lista_compra_while.coverage" NAME="lista_compra_while Coverage Results" MODIFIED="1545592548260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mi_primer_programe$ejercicios_3.coverage" NAME="ejercicios_3 Coverage Results" MODIFIED="1545500611561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$mayor_de_tres.coverage" NAME="mayor_de_tres Coverage Results" MODIFIED="1545260994633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mi_primer_programe$ejercicio_fizz_buzz_bazinga.coverage" NAME="ejercicio_fizz_buzz_bazinga Coverage Results" MODIFIED="1545773346645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$vocales_por_su_numero_de_aparicion.coverage" NAME="vocales_por_su_numero_de_aparicion Coverage Results" MODIFIED="1545689651407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$ejercicio_tabla_de_multiplicar_1.coverage" NAME="ejercicio_tabla_de_multiplicar_1 Coverage Results" MODIFIED="1545659298042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$vocal_o_consonante.coverage" NAME="vocal_o_consonante Coverage Results" MODIFIED="1545608118726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$repetir_todo_con_i.coverage" NAME="repetir_todo_con_i Coverage Results" MODIFIED="1545684232313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$tabla_de_multiplicar_invertida.coverage" NAME="tabla_de_multiplicar_invertida Coverage Results" MODIFIED="1545659808613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/tablas_de_multiplicar" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$ejemplo_for.coverage" NAME="ejemplo_for Coverage Results" MODIFIED="1545668627918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejemplos" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$algoritmo_fizz_buzz.coverage" NAME="algoritmo_fizz_buzz Coverage Results" MODIFIED="1545773042308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$multiplos_de_2.coverage" NAME="multiplos_de_2 Coverage Results" MODIFIED="1545659498524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/tablas_de_multiplicar" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$numero_mas_pequeno.coverage" NAME="numero_mas_pequeno Coverage Results" MODIFIED="1545667869961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/numeros_y_listas" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$numero_mas_grande_lista.coverage" NAME="numero_mas_grande_lista Coverage Results" MODIFIED="1545774672067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$count_number_list.coverage" NAME="count_number_list Coverage Results" MODIFIED="1545687519608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt1/numeros_y_listas" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$promedio_de_elementos_en_lista.coverage" NAME="promedio_de_elementos_en_lista Coverage Results" MODIFIED="1545670657024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/numeros_y_listas" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$random.coverage" NAME="random Coverage Results" MODIFIED="1545452528283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mi_primer_programe$tecnicas.coverage" NAME="tecnicas Coverage Results" MODIFIED="1545493192210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$separacion_de_strings_e_int.coverage" NAME="separacion_de_strings_e_int Coverage Results" MODIFIED="1545674051051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2" />
-    <SUITE FILE_PATH="coverage/mi_primer_programe$ejercicio_listas_y_for_3.coverage" NAME="ejercicio_listas_y_for_3 Coverage Results" MODIFIED="1545658635477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$numero_mas_pequeno.coverage" NAME="numero_mas_pequeno Coverage Results" MODIFIED="1545667869961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/numeros_y_listas" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$multiplicacion_de_todos_los_numeros_en_lista.coverage" NAME="multiplicacion_de_todos_los_numeros_en_lista Coverage Results" MODIFIED="1545673004337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$multiplos_de_2.coverage" NAME="multiplos_de_2 Coverage Results" MODIFIED="1545659498524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/tablas_de_multiplicar" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$poke_combat.coverage" NAME="poke_combat Coverage Results" MODIFIED="1545494242881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$tabla_de_multiplicar_invertida.coverage" NAME="tabla_de_multiplicar_invertida Coverage Results" MODIFIED="1545659808613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/tablas_de_multiplicar" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$replacement_aA_for_VACA.coverage" NAME="replacement_aA_for_VACA Coverage Results" MODIFIED="1545683877604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2" />
     <SUITE FILE_PATH="coverage/mi_primer_programe$numero_mas_grande.coverage" NAME="numero_mas_grande Coverage Results" MODIFIED="1545774200519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejemplos" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$format.coverage" NAME="format Coverage Results" MODIFIED="1545682888577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/clases" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$vocales_por_su_numero_de_aparicion.coverage" NAME="vocales_por_su_numero_de_aparicion Coverage Results" MODIFIED="1545689651407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$separacion_de_strings_e_int.coverage" NAME="separacion_de_strings_e_int Coverage Results" MODIFIED="1545674051051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$numero_mas_grande_lista.coverage" NAME="numero_mas_grande_lista Coverage Results" MODIFIED="1545774672067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$ejercicio_listas_y_for_2.coverage" NAME="ejercicio_listas_y_for_2 Coverage Results" MODIFIED="1545658374142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$algoritmo_fizz_buzz.coverage" NAME="algoritmo_fizz_buzz Coverage Results" MODIFIED="1545773042308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$vocal_o_consonante.coverage" NAME="vocal_o_consonante Coverage Results" MODIFIED="1545608118726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$test_input.coverage" NAME="test_input Coverage Results" MODIFIED="1545099893428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$ejercicio_tabla_de_multiplicar_1.coverage" NAME="ejercicio_tabla_de_multiplicar_1 Coverage Results" MODIFIED="1545659298042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$ejemplo_for.coverage" NAME="ejemplo_for Coverage Results" MODIFIED="1545668627918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejemplos" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$ejercicio_listas_y_for_3.coverage" NAME="ejercicio_listas_y_for_3 Coverage Results" MODIFIED="1545658635477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$count_number_list.coverage" NAME="count_number_list Coverage Results" MODIFIED="1545687519608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt1/numeros_y_listas" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$ejemplo_while.coverage" NAME="ejemplo_while Coverage Results" MODIFIED="1545669373915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejemplos" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$ejercicios_1.coverage" NAME="ejercicios_1 Coverage Results" MODIFIED="1545687439541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/ejercicios_random" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$adivina_numero.coverage" NAME="adivina_numero Coverage Results" MODIFIED="1545261008270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mi_primer_programe$asd.coverage" NAME="asd Coverage Results" MODIFIED="1545687951394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejemplos" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2/multiplos_2_3_5_7.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+            <state relative-caret-position="204">
+              <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -70,7 +70,7 @@
         <entry file="file://$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2/ejercicio_fizz_buzz_bazinga.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -78,8 +78,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2/separacion_de_strings_e_int.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="35" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="8" selection-end-column="35" />
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -133,7 +133,6 @@
         <option value="$PROJECT_DIR$/ejercicios/ejercicios_random.py" />
         <option value="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2/largo_de_cada_string_en_lista.py" />
         <option value="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2/multiplicacion_de_todos_los_numeros_en_lista.py" />
-        <option value="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2/separacion_de_strings_e_int.py" />
         <option value="$PROJECT_DIR$/clases/format.py" />
         <option value="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2/repetir_todo_con_i.py" />
         <option value="$PROJECT_DIR$/ejemplos/asd.py" />
@@ -145,14 +144,16 @@
         <option value="$PROJECT_DIR$/ejemplos/numero_mas_grande.py" />
         <option value="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2/numero_mas_grande_lista.py" />
         <option value="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2/multiplos.py" />
+        <option value="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2/separacion_de_strings_e_int.py" />
         <option value="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2/multiplos_2_3_5_7.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="697" />
-    <option name="height" value="775" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -166,28 +167,19 @@
         <subPane>
           <expand>
             <path>
-              <item name="mi_primer_programe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mi_primer_programe" type="462c0819:PsiDirectoryNode" />
+              <item name="mi_primer_programa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mi_primer_programa" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="mi_primer_programe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mi_primer_programe" type="462c0819:PsiDirectoryNode" />
-              <item name="ejemplos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mi_primer_programe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mi_primer_programe" type="462c0819:PsiDirectoryNode" />
+              <item name="mi_primer_programa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mi_primer_programa" type="462c0819:PsiDirectoryNode" />
               <item name="ejercicios" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="mi_primer_programe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mi_primer_programe" type="462c0819:PsiDirectoryNode" />
+              <item name="mi_primer_programa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mi_primer_programa" type="462c0819:PsiDirectoryNode" />
               <item name="ejercicios" type="462c0819:PsiDirectoryNode" />
               <item name="conceptos_en_practica_pt2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mi_primer_programe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -198,9 +190,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -366,21 +359,23 @@
       <workItem from="1545657906676" duration="19619000" />
       <workItem from="1545764266109" duration="943000" />
       <workItem from="1545767909117" duration="7094000" />
+      <workItem from="1546100145268" duration="2995000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79511000" />
+    <option name="totallyTimeSpent" value="82506000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="1912" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28971255" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.204236" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.32872504" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.32872504" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39938557" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -465,13 +460,7 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1674840342/_random.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="13" selection-start-line="13" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1674840342/_random.py" />
     <entry file="file://$PROJECT_DIR$/clases/hello.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -559,13 +548,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="315" column="55" lean-forward="true" selection-start-line="315" selection-start-column="55" selection-end-line="315" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/codecs.py" />
     <entry file="file://$PROJECT_DIR$/ejercicios/ejercicios_random.py" />
     <entry file="file://$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2/multiplicacion_de_todos_los_numeros_en_lista.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -716,22 +699,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2/separacion_de_strings_e_int.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="35" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="8" selection-end-column="35" />
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2/ejercicio_fizz_buzz_bazinga.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2/multiplos_2_3_5_7.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        <state relative-caret-position="204">
+          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
         </state>
       </provider>
     </entry>

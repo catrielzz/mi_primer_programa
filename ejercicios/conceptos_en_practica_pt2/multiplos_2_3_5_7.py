@@ -5,21 +5,15 @@ multiplos_de_5 = []
 multiplos_de_7 = []
 
 for numero in lista_numeros:
-    if lista_numeros[numero] % 2 == 0 or lista_numeros[numero] % 3 == 0 or lista_numeros[numero] % 5 == 0 or\
-            lista_numeros[numero] % 7 == 0:
-        valor_a_agregar = 0
-        if numero % 2 == 0:
-            valor_a_agregar += lista_numeros[numero]
-            multiplos_de_2.append(valor_a_agregar)
-        elif numero % 3 == 0:
-            valor_a_agregar += lista_numeros[numero]
-            multiplos_de_3.append(valor_a_agregar)
-        elif numero % 5 == 0:
-            valor_a_agregar += lista_numeros[numero]
-            multiplos_de_5.append(valor_a_agregar)
-        elif numero % 7 == 0:
-            valor_a_agregar += lista_numeros[numero]
-            multiplos_de_7.append(valor_a_agregar)
+    if numero % 2 == 0:
+        multiplos_de_2.append(numero)
+    if numero % 3 == 0:
+        multiplos_de_3.append(numero)
+    if numero % 5 == 0:
+        multiplos_de_5.append(numero)
+    if numero % 7 == 0:
+        multiplos_de_7.append(numero)
+
 
 print("Multiplos_2 = {}".format(multiplos_de_2))
 print("Multiplos_3 = {}".format(multiplos_de_3))
