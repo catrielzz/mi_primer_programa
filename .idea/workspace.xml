@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d04e56e4-fdab-4564-8d6c-55430f1d9c67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/clases/agenda_telefonica.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicios/ejercicios_diccionarios/cantidad_de_palabras_repetidas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicios/ejercicios_diccionarios/diccionarios_nombres_y_fechas_de_nacimiento.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicios/ejercicios_diccionarios/subrayando.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicios/ejercicios_diccionarios/traduccion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mi_primer_programe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mi_primer_programe.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon/funciones.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicios/ejercicios_random/poke_combat.py" beforeDir="false" afterPath="$PROJECT_DIR$/pokemon/poke_combat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicios/ejercicios_random/tecnicas.py" beforeDir="false" afterPath="$PROJECT_DIR$/pokemon/tecnicas.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +62,7 @@
     <SUITE FILE_PATH="coverage/mi_primer_programe$ejercicio_listas_y_for_2.coverage" NAME="ejercicio_listas_y_for_2 Coverage Results" MODIFIED="1545658374142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios" />
     <SUITE FILE_PATH="coverage/mi_primer_programe$test_input.coverage" NAME="test_input Coverage Results" MODIFIED="1545099893428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mi_primer_programe$ejercicio_tabla_de_multiplicar_1.coverage" NAME="ejercicio_tabla_de_multiplicar_1 Coverage Results" MODIFIED="1545659298042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios" />
+    <SUITE FILE_PATH="coverage/mi_primer_programa$funciones.coverage" NAME="funciones Coverage Results" MODIFIED="1546418714561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pokemon" />
     <SUITE FILE_PATH="coverage/mi_primer_programe$ejercicio_listas_y_for_3.coverage" NAME="ejercicio_listas_y_for_3 Coverage Results" MODIFIED="1545658635477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios" />
     <SUITE FILE_PATH="coverage/mi_primer_programe$count_number_list.coverage" NAME="count_number_list Coverage Results" MODIFIED="1545687519608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt1/numeros_y_listas" />
     <SUITE FILE_PATH="coverage/mi_primer_programe$ejemplo_while.coverage" NAME="ejemplo_while Coverage Results" MODIFIED="1545669373915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ejemplos" />
@@ -87,38 +84,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pokemon/poke_combat.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-47">
+              <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pokemon/tecnicas.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1105">
+              <caret line="74" column="64" selection-start-line="74" selection-start-column="64" selection-end-line="74" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ejercicios/ejercicios_diccionarios/subrayando.py">
+        <entry file="file://$PROJECT_DIR$/pokemon/funciones.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2/ejercicio_fizz_buzz_bazinga.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="58" lean-forward="true" selection-start-line="3" selection-start-column="58" selection-end-line="3" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ejercicios/ejercicios_diccionarios/cantidad_de_palabras_repetidas.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ejercicios/ejercicios_diccionarios/diccionarios_nombres_y_fechas_de_nacimiento.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            <state relative-caret-position="1027">
+              <caret line="67" column="16" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -138,8 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/comer_helado.py" />
-        <option value="$PROJECT_DIR$/ejemplo_while.py" />
         <option value="$PROJECT_DIR$/random.py" />
         <option value="$PROJECT_DIR$/asdasd.py" />
         <option value="$PROJECT_DIR$/tecnicas.py" />
@@ -189,14 +175,16 @@
         <option value="$PROJECT_DIR$/ejercicios/ejercicios_diccionarios/traduccion.py" />
         <option value="$PROJECT_DIR$/ejercicios/ejercicios_diccionarios/cantidad_de_palabras_repetidas.py" />
         <option value="$PROJECT_DIR$/ejercicios/ejercicios_diccionarios/subrayando.py" />
+        <option value="$PROJECT_DIR$/pokemon/poke_combat.py" />
+        <option value="$PROJECT_DIR$/pokemon/funciones.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="784" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -206,6 +194,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -230,11 +219,15 @@
               <item name="ejercicios" type="462c0819:PsiDirectoryNode" />
               <item name="ejercicios_diccionarios" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="mi_primer_programa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mi_primer_programa" type="462c0819:PsiDirectoryNode" />
+              <item name="pokemon" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -246,11 +239,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yoele\Desktop\python\mi_primer_programa\pokemon" />
       <recent name="C:\Users\yoel_\PycharmProjects\mi_primer_programe\ejemplos" />
       <recent name="C:\Users\yoel_\PycharmProjects\mi_primer_programe\ejercicios\ejercicios_random" />
       <recent name="C:\Users\yoel_\PycharmProjects\mi_primer_programe\ejercicios\conceptos_en_practica_pt1" />
       <recent name="C:\Users\yoel_\PycharmProjects\mi_primer_programe\ejercicios\tablas_de_multiplicar" />
-      <recent name="C:\Users\yoel_\PycharmProjects\mi_primer_programe\ejercicios\listas_y_for" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -265,29 +258,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.subrayando">
-    <configuration name="agenda_telefonica" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="mi_primer_programe" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/clases" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clases/agenda_telefonica.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.funciones">
     <configuration name="cantidad_de_palabras_repetidas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mi_primer_programe" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -324,6 +295,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ejercicios/ejercicios_diccionarios/diccionarios_nombres_y_fechas_de_nacimiento.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="funciones" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mi_primer_programe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pokemon" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pokemon/funciones.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -378,11 +371,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.funciones" />
         <item itemvalue="Python.subrayando" />
         <item itemvalue="Python.cantidad_de_palabras_repetidas" />
         <item itemvalue="Python.traduccion" />
         <item itemvalue="Python.diccionarios_nombres_y_fechas_de_nacimiento" />
-        <item itemvalue="Python.agenda_telefonica" />
       </list>
     </recent_temporary>
   </component>
@@ -413,22 +406,24 @@
       <workItem from="1546354744789" duration="5510000" />
       <workItem from="1546368344677" duration="1238000" />
       <workItem from="1546381301914" duration="882000" />
-      <workItem from="1546382215093" duration="5370000" />
+      <workItem from="1546382215093" duration="6005000" />
+      <workItem from="1546417482267" duration="1879000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105108000" />
+    <option name="totallyTimeSpent" value="107622000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2193646" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2217484" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32872504" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.32872504" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.3281412" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39938557" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -437,7 +432,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.32872504" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49848714" weight="0.32872504" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49848714" weight="0.3281412" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32872504" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -519,20 +514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ejercicios/ejercicios_random/tecnicas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="58" column="43" lean-forward="true" selection-end-line="196" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ejercicios/ejercicios_random/poke_combat.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
@@ -790,31 +771,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicios/ejercicios_diccionarios/subrayando.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ejercicios/conceptos_en_practica_pt2/ejercicio_fizz_buzz_bazinga.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="58" lean-forward="true" selection-start-line="3" selection-start-column="58" selection-end-line="3" selection-end-column="58" />
+          <caret line="3" column="58" selection-start-line="3" selection-start-column="58" selection-end-line="3" selection-end-column="58" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ejercicios/ejercicios_diccionarios/cantidad_de_palabras_repetidas.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ejercicios/ejercicios_diccionarios/diccionarios_nombres_y_fechas_de_nacimiento.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
+        <state relative-caret-position="102">
           <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ejercicios/ejercicios_diccionarios/subrayando.py">
+    <entry file="file://$PROJECT_DIR$/pokemon/tecnicas.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="1105">
+          <caret line="74" column="64" selection-start-line="74" selection-start-column="64" selection-end-line="74" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pokemon/poke_combat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-47">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pokemon/funciones.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1027">
+          <caret line="67" column="16" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
         </state>
       </provider>
     </entry>
