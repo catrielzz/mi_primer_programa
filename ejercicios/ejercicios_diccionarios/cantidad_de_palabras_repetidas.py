@@ -1,15 +1,29 @@
-diccionario = dict()
+"""
+Crea un programa que cuente el número de veces que aparece una palabra en una string
 
-frase = input("Ingresa una frase: ")
+"Hola Hola como estas amigo amigo amigo"
+-----------------
+|  Hola: 2 veces |
+|  como: 1 vez   |
+|  estas: 1 vez  |
+|  amigo: 3 veces|
+-----------------
+"""
+frase = input('Ingrese una frase: ')
+def contador_palabras(str):
+    diccionario = dict()
+    palabras = str.split()
 
-for palabra in frase:
-    if palabra in diccionario:
-        diccionario[palabra] += 1
-        print()
-    else:
-        diccionario[palabra] = 1
+    for palabra in palabras:
+        if palabra in diccionario:
+            diccionario[palabra] += 1
+        else:
+            diccionario[palabra] = 1
 
-if palabra >=1:
-    print("{} 1 vez".format(palabra))
-else:
-    print("{} {} veces".format(palabra, len(palabra)))
+    return diccionario
+
+print(contador_palabras(frase))
+
+
+
+
