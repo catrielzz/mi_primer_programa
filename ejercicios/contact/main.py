@@ -1,7 +1,10 @@
 import pickle
+
 from time import sleep
 from tkinter import *
 from tkinter import ttk
+
+from ejercicios.contact.contact import Contact
 
 ACTION_ADD_CONTACT = 1
 ACTION_REMOVE_CONTACT = 2
@@ -34,11 +37,7 @@ def show_menu():
 
 
 def add_contact(contacts, name, phone, email):
-    contact = {
-        "name": name,
-        "phone": phone,
-        "email": email
-    }
+    contact = Contact(name, phone, email)
     contacts.append(contact)
     return contact
 
@@ -54,7 +53,7 @@ def add_contact_tk(contacts, name, phone, email, frame_contact_list):
 def ask_new_contact(contacts):
     print("\n\nAñadir contacto\n")
     contact = add_contact(contacts, input("Nombre: "), input("Teléfono: "), input("Email: "))
-    print("Se ha añadido el contacto {} correctamente\n".format(contact["name"]))
+    print("Se ha añadido el contacto {} correctamente\n".format(contact.name))
     sleep(2)
 
 
@@ -85,9 +84,9 @@ def find_contact(contacts):
     contact_counter = 0
 
     for contact in contacts:
-        if contact["name"].find(search_term) >= 0:
+        if contact.name.find(search_term) >= 0:
             found_contacts.append(contact)
-            print("{} - {}".format(contact_counter, contact["name"]))
+            print("{} - {}".format(contact_counter, contact.name))
             contact_indexes.append(contact_counter)
             contact_counter += 1
 
@@ -99,8 +98,8 @@ def find_contact(contacts):
         print("No se ha encontrado ninguno.")
         return
 
-    print("\nInformacion sobre {}\n".format(found_contacts[contact_index]["name"]))
-    print("Nombre: {name}\nTelefono: {phone}\nEmail: {email}".format(**found_contacts[contact_index]))
+    print("\nInformacion sobre {}\n".format(found_contacts[contact_index].name))
+    print("Nombre: {name}\nTelefono: {phone}\nEmail: {email}".format(contact.name, contact.phone, contact.email))
     sleep(2)
 
 
