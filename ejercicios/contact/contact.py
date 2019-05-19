@@ -9,3 +9,7 @@ class Contact:
     def print_data(self):
         print("Nombre: {}, Telefofo: {}, Email: {}\n\n".format(self.name, self.phone, self.email))
 
+    def __str__(self):
+        return self.name
+
+    

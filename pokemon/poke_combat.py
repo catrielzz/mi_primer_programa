@@ -20,7 +20,6 @@ elif pokemon_elegido == "BULBASAUR":
     ataque_pokemon = 10
 
 
-
 while vida_pikachu > 0 and vida_enemigo > 0:
     #Elegimos el ataque
     ataque_elegido = input("Que ataque quieres usar? (Sparkle / Thunderbolt): ").upper()
