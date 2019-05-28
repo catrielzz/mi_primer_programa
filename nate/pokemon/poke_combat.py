@@ -1,5 +1,3 @@
-from pokemon import funciones
-
 pokemon_elegido = input("Contra quien quieres pelear? (Squirtle / Charmander / Bulbasaur): ").upper()
 vida_pikachu = 100
 vida_enemigo = 0

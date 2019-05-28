@@ -4,7 +4,7 @@ from time import sleep
 from tkinter import *
 from tkinter import ttk
 
-from ejercicios.contact.contact import Contact
+from nate.ejercicios.contact.contact import Contact
 
 ACTION_ADD_CONTACT = 1
 ACTION_REMOVE_CONTACT = 2

@@ -1,4 +1,4 @@
-from pokemon.pokemon_oop.pokecombat_oop.pokemon_class import Pokemon
+from nate.pokemon.pokemon_oop.pokecombat_oop.pokemon_class import Pokemon
 import random
 
 

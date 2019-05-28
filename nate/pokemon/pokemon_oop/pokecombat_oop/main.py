@@ -1,6 +1,6 @@
 from time import sleep
 
-from pokemon.pokemon_oop.pokecombat_oop.pokemon_generator import *
+from nate.pokemon.pokemon_oop.pokecombat_oop.pokemon_generator import *
 
 
 def main():
