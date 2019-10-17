@@ -2,11 +2,11 @@
 # la misma tarea o una similar. A continuación se muestra uno de los ejemplos más básicos de una función:
 
 
-def add_two(x):
+def addTwo(x):
     return x + 2
 
 
-print(add_two(3))  # esto imprimirá 5
+print(addTwo(3))  # esto imprimirá 5
 
 # Antes de que podamos profundizar en las funciones, hay algunas definiciones que debemos entender:
 
@@ -20,21 +20,21 @@ print(add_two(3))  # esto imprimirá 5
 # Nos devuelve un valor Verdadero o Falso dependiendo de la lista dada.
 
 
-def is_zeros(li):
+def isZeros(li):
     for element in li:
         if element != 0:
             return False
     return True
 
 
-print(is_zeros([0, 0, 0, 1]))  # Esto imprimirá falso
+print(isZeros([0, 0, 0, 1]))  # Esto imprimirá falso
 
 # Esta función verifica si cada elemento en una lista es cero.
 # It displays to the screen True or False.
 # NO devuelve un valor.
 
 
-def is_zeros(li):
+def isZeros(li):
     check = True
     for element in li:
         if element != 0:
@@ -46,7 +46,7 @@ def is_zeros(li):
         print("False")
 
 
-is_zeros([0, 0, 0, 0])  # Llamar a esto dará como resultado que True se imprima en la pantalla
+isZeros([0, 0, 0, 0])  # Llamar a esto dará como resultado que True se imprima en la pantalla
 
 # Nota: Las funciones están destinadas a ser reutilizadas y, por lo tanto, se pueden usar tantas veces como desee.
 # Si alguna vez se encuentra repitiendo código, piense en ponerlo en una función y
@@ -55,7 +55,7 @@ is_zeros([0, 0, 0, 0])  # Llamar a esto dará como resultado que True se imprima
 # Problema: queremos hacer un conjunto de preguntas 5 veces: name, age and country
 
 
-def ask_questions():
+def askQuestions():
     name = input('Ingrese su Nombre: ')
     age = input('Ingrese su edad: ')
     country = input('Ingrese su pais de residencia: ')
@@ -63,7 +63,7 @@ def ask_questions():
 
 
 for i in range(5):
-    ask_questions()
+    askQuestions()
 
 
 

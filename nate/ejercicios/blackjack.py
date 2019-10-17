@@ -2,7 +2,6 @@ import random
 
 # Class Card
 
-
 class Card:
     def __init__(self, number, suit):
         self.number = number
@@ -12,8 +11,6 @@ class Card:
         return "{} of {}".format(self.number, self.suit)
 
 # Class Deck
-
-
 class Deck:
     suits = ["diamonds", "heart", "spades", "clubs"]
     max_number = 13
@@ -36,8 +33,6 @@ class Deck:
     def __str__(self):
         str_cards = [str(card) for card in self.cards]
         return "Mazo con {} cartas: \n{}".format(len(self.cards), ",\n".join(str_cards))
-
-# Class Game
 
 
 class Game:
@@ -100,7 +95,7 @@ class Game:
 
         for player in self.players:
             self.start_turn(player)
-            print("Turno del jugador {}\n\n".format(player.name))
+            # print("Turno del jugador {}\n\n".format(player.name))
 
             user_continue = True
 
