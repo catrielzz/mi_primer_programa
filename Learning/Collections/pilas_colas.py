@@ -17,7 +17,9 @@ for item in range(len(pila)):
 
 from collections import deque
 
-cola = deque([])
+cola = deque(['Yoel', 'Andres', 'Hernan'])
+cola.append('Arnaldo')
+cola.append('Maria')
 
-
+print(cola)
 
