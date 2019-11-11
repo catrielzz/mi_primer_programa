@@ -23,3 +23,6 @@ try:
     print("5 +", num, "is", addedNum)
 except ValueError:
     print("That is not a number!!")
+
+
+print('hola')  # SyntaxError: unexpected EOF while parsing
