@@ -22,10 +22,10 @@ This release contains the following changes:
 a| * Username (String)
 * Password (String)
 | N/A
-| CRUD: Get account
-a| * id (String) (Modified)
-* fields (String) (Modified)
-| Attributes Type (HttpResponseAttributes) (New)
+| Add user
+a| * Username (String)
+* Password (String)
+| N/A
 | Get Payment Crud
 | Id (String)
 | N/A
