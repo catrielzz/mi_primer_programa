@@ -18,13 +18,11 @@ This release contains the following changes:
 |===
 3+|Existing in MongoDB 5.x 3+| Modified in MongoDB 6.x
 |Operation Name | Input Params  |Output Params  | Operation Name                             |Input Params                                      |Output Params
-| Add user
-a| * Username (String)
-* Password (String)
+| Drop database
+a| * N/A
 | N/A
-| Add user
-a| * Username (String)
-* Password (String)
+| Drop database
+a| * Database name (String)
 | N/A
 | Get Payment Crud
 | Id (String)
