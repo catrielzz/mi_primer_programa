@@ -24,8 +24,9 @@ a| * N/A
 | Drop database
 a| * Database name (String)
 | N/A
-| Get Payment Crud
-| Id (String)
+| Dump
+a| Id (String)
+| * Database name (String)
 | N/A
 | Dump
 | * Database name (String)
