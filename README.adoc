@@ -27,8 +27,11 @@ a| * Database name (String)
 | Get Payment Crud
 | Id (String)
 | N/A
-| CRUD: Get payment
-| id (String) (Modified)
+| Dump
+| * Database name (String)
+* Database name (String)
+* Database name (String)
+* Database name (String)
 | Attributes Type (HttpResponseAttributes) (New)
 | Get Payment Method Crud
 a| * Fields (String)
