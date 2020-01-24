@@ -1,0 +1,73 @@
+= MongoDB - Upgrade and Migrate - Mule 4
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+:imagesdir: ../../assets/images/
+Upgrade Anypoint Connector for MongoDB (MongoDB Connector) to version 6.0.0.  
+== Supported Upgrade Paths
+[%header,cols="50a,50a"]
+|===
+|From Version | To Version
+|5.3.x |6.0.0
+
+Available operations
+Add user.
+Drop database.
+Dump.
+Incremental Dump.
+Restore.
+Create Collection.
+Drop Collection.
+Exists Collection.
+List Collections.
+Map Reduce Objects.
+Create Index.
+Drop Index.
+List indices.
+Insert Document
+Insert Documents
+Update Documents
+Remove Documents
+Count Documents
+Find Documents
+Execute Command
+Create File From Payload
+Find Files
+Get File Content
+List Files
+Remove Files
+Available Sources
+New Object Listener.
+
+
+|===
+== Changes in This Release
+This release contains the following changes:
+* Changed operation names, metadata, fields, and values 
+== Changes in Operations Parameters
+[%header,cols="19%,15%,15%,19%,15%,15%"]
+|===
+3+|Existing in MongoDB 5.x 3+| Modified in MongoDB 6.x
+|Operation Name | Input Params  |Output Params  | Operation Name                             |Input Params                                      |Output Params
+| Add user
+a| * Username (String)
+* Password (String)
+| N/A
+| CRUD: Get account
+a| * id (String) (Modified)
+* fields (String) (Modified)
+| Attributes Type (HttpResponseAttributes) (New)
+| Get Payment Crud
+| Id (String)
+| N/A
+| CRUD: Get payment
+| id (String) (Modified)
+| Attributes Type (HttpResponseAttributes) (New)
+| Get Payment Method Crud
+a| * Fields (String)
+* Id (String)
+| N/A
+| CRUD: Get payment method
+a| * id (String) (Modified)
+* fields (String)
+| Attributes Type (HttpResponseAttributes) (New)
