@@ -9,37 +9,6 @@ Upgrade Anypoint Connector for MongoDB (MongoDB Connector) to version 6.0.0.
 |===
 |From Version | To Version
 |5.3.x |6.0.0
-
-Available operations
-Add user.
-Drop database.
-Dump.
-Incremental Dump.
-Restore.
-Create Collection.
-Drop Collection.
-Exists Collection.
-List Collections.
-Map Reduce Objects.
-Create Index.
-Drop Index.
-List indices.
-Insert Document
-Insert Documents
-Update Documents
-Remove Documents
-Count Documents
-Find Documents
-Execute Command
-Create File From Payload
-Find Files
-Get File Content
-List Files
-Remove Files
-Available Sources
-New Object Listener.
-
-
 |===
 == Changes in This Release
 This release contains the following changes:
